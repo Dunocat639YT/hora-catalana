@@ -1,3 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background-color: red;
+  background-color: #ffe066;
+}
+
+.bloc1 {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.bloc2 {
+  background-color: #ffefb3;
 }
